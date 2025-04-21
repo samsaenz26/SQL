@@ -4,4 +4,7 @@
 
 # Sam Saenz's SQL Portfolio
 
-Welcome to my SQL portfolio! This code repository contains examples of SQL I've written for different projects. Feel free to take a look and reach out if you have any questions. Thank you!
+*Welcome to my SQL Portfolio!*
+
+This repository showcases a collection of SQL queries and projects I've worked on, ranging from data cleaning and transformation to complex joins and performance optimization. Whether you're exploring for inspiration or evaluating my work, I invite you to browse through the examples. Each project highlights different aspects of my SQL experience and problem-solving skills.
+Feel free to reach out if you have any questions or would like to collaborate, thanks for stopping by!
